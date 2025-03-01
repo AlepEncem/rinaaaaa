@@ -1,4 +1,4 @@
-<h1>Confession-To-Crush</h1>
+<h1>Confession-To-Rinaaa</h1>
   
   <p>Welcome to the most unconventional and virtual way of confessing your affection! 💌 This project allows you to simulate your feelings and express your emotions for that special someone who has captured your heart (digitally, of course). Whether you're feeling lovey-dovey or just want to have some fun, this project has got you covered.</p>
   
